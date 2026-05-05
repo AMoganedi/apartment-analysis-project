@@ -1,0 +1,4 @@
+Apartment_feature, correlation
+bedrooms, 0.7
+bathrooms, 0.83
+parking space, 0.44
